@@ -72,6 +72,3 @@ To run inference on a new video file:
 * `src/`: Source code for training (Jupyter Notebook) and inference (Python script).
 * `best.pt`: Serialized PyTorch model weights (Fine-tuned).
 * `requirements.txt`: Python dependencies.
-
----
-*AgTech Computer Vision Portfolio Project.*
